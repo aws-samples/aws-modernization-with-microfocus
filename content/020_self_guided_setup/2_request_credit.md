@@ -12,7 +12,7 @@ will receive a confirmation email with an AWS Credit Code. Credits are
 available while supplies last.
   </td>
 
-  <td class="credit" style="width:30%"> <a href="https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-credit-request.html?trk=lab_MFUFTOne" target="_blank" class="credit-btn">Request AWS Credits</a>  </td>
+  <td class="credit" style="width:30%"> <a href="https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-credit-request.html?trk=lab_microfocus-testing" target="_blank" class="credit-btn">Request AWS Credits</a>  </td>
 </tr>
 </table>
 

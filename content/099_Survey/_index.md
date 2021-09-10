@@ -6,4 +6,4 @@ weight: 90
 ---
 
 # Survey
-To help us improve this product, please take some time to fill out the {{% button href="https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-csat-lab-completion.html?trk=lab_MFUFTOne" icon="fas fa-poll" %}}Survey{{% /button %}}
+To help us improve this product, please take some time to fill out the {{% button href="https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-csat-lab-completion.html?trk=lab_microfocus-testing" icon="fas fa-poll" %}}Survey{{% /button %}}
